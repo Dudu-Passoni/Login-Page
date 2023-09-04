@@ -1,5 +1,5 @@
-/* This code was made by Dudu-Passoni
- *
+/* 
+ * This code was made by Dudu-Passoni
  */
 
 #include <ncurses>
