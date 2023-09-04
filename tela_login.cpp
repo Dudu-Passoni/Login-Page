@@ -1,3 +1,7 @@
+/* This code was made by Dudu-Passoni
+ *
+ */
+
 #include <ncurses>
 #include <cstring>
 
