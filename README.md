@@ -1,3 +1,4 @@
 # Login-Page
-This is a login page project made in C, using the NCurses library
+A login page project made in C/C++, using the NCurses library
+
 :)
